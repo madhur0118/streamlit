@@ -9,7 +9,7 @@ import plotly.express as px
 st.title('Penguin Explorer')
 
 # Write data taken from https://allisonhorst.github.io/palmerpenguins/
-st.write('**Littke** *app* for exploring `penguin` [dataset](https://allisonhorst.github.io/palmerpenguins/)')
+st.write('**Little** *app* for exploring `penguin` [dataset](https://allisonhorst.github.io/palmerpenguins/)')
 
 # Put image https://raw.githubusercontent.com/allisonhorst/palmerpenguins/master/man/figures/lter_penguins.png
 st.image('https://raw.githubusercontent.com/allisonhorst/palmerpenguins/master/man/figures/lter_penguins.png')
